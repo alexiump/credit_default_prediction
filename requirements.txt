@@ -1,4 +1,3 @@
 pandas
 scikit-learn
 joblib
-sklearn.linear_model
